@@ -1,0 +1,14 @@
+.title{
+    color:blue
+  }
+  
+  a:link {
+    color: rgb(255, 71, 224);
+}
+.box {
+    padding: 50px
+  }
+  div{
+    height: 30%;
+    width: 50%;
+}
